@@ -1,0 +1,4 @@
+Sitemap: https://edcrypt.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: edcrypt.github.io
